@@ -1,0 +1,26 @@
+{
+  "name": "mrsupport",
+  "version": "1.0.0",
+  "description": "Most reliable support bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treverg123/mrsupport.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "mr",
+    "support",
+    "support"
+  ],
+  "author": "Trever Gumbs",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/treverg123/mrsupport/issues"
+  },
+  "homepage": "https://github.com/treverg123/mrsupport#readme"
+}
