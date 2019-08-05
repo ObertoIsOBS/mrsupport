@@ -19,6 +19,9 @@
   ],
   "author": "Trever Gumbs",
   "license": "Apache-2.0",
+      "dependencies": {
+      "discord.js": "^11.3.2"
+      },
   "bugs": {
     "url": "https://github.com/treverg123/mrsupport/issues"
   },
